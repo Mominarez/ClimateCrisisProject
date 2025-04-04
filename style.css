@@ -9,7 +9,7 @@ body {
 }
 
 p {
-    font-family: "Raleway", sans-serif;
+    font-family: "Times New Roman", sans-serif;
 }
 
 header {
@@ -43,7 +43,7 @@ header * {
 }
 
 .big-number {
-    font-size: 100px;
+    font-size: 80px;
     margin-top: 11px;
     color: #2c5035;
     text-shadow: 2px 2px 5px rgba(0, 51, 0, 0.5);
@@ -306,7 +306,7 @@ p::before, p::after, h3::after {
 }
 
 p::first-letter {
-    color: #4C9A2A;
+    color: 	#0000FF;
     font-size: large;
     font-weight: 400;
 }
